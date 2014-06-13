@@ -28,7 +28,7 @@ close $in;
 #-----------------------------------------------------------
 
 # Dialog
-my $object = Gtk2::GladeXML->new('Traductor.glade');
+my $object = Gtk2::GladeXML->new('traductor.glade');
 my $dialog = $object->get_widget('dialog1');
 $dialog->show_all;
 $dialog->signal_connect(destroy => sub {Gtk2->main_quit});
