@@ -1,0 +1,8 @@
+Gato	Cat
+Perro	Dog
+Pluma	Pen
+Lapiz	Pencil
+Borrador	Eraser
+Cuaderno	Notebook
+Mesa	Table
+Luz	Light
